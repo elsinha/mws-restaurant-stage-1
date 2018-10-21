@@ -35,6 +35,6 @@ self.addEventListener('fetch', function(event) {
     )
   );
 });
-
+//later want to have a activate listener to delete old caches
 //excertp from
 // ttps://developer.mozilla.org/en-US/docs/Web/API/Cache/match
